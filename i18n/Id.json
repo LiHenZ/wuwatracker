@@ -1,0 +1,516 @@
+{
+  "Items": {
+    "Aalto": "Aalto",
+    "Baizhi": "Baizhi",
+    "Calcharo": "Calcharo",
+    "Changli": "Changli",
+    "Chixia": "Chixia",
+    "Danjin": "Danjin",
+    "Encore": "Encore",
+    "Jianxin": "Jianxin",
+    "Jinhsi": "Jinhsi",
+    "Jiyan": "Jiyan",
+    "Lingyang": "Lingyang",
+    "Mortefi": "Mortefi",
+    "Sanhua": "Sanhua",
+    "Taoqi": "Taoqi",
+    "Verina": "Verina",
+    "Yangyang": "Yangyang",
+    "Yinlin": "Yinlin",
+    "Yuanwu": "Yuanwu",
+    "Abyss Surges": "Abyss Surges",
+    "Ages of Harvest": "Ages of Harvest",
+    "Amity Accord": "Amity Accord",
+    "Autumntrace": "Autumntrace",
+    "Beguiling Melody": "Beguiling Melody",
+    "Blazing Brilliance": "Blazing Brilliance",
+    "Broadblade of Night": "Broadblade of Night",
+    "Broadblade of Voyager": "Broadblade of Voyager",
+    "Broadblade#41": "Broadblade#41",
+    "Cadenza": "Cadenza",
+    "Commando of Conviction": "Commando of Conviction",
+    "Comet Flare": "Comet Flare",
+    "Cosmic Ripples": "Cosmic Ripples",
+    "Dauntless Evernight": "Dauntless Evernight",
+    "Discord": "Discord",
+    "Emerald of Genesis": "Emerald of Genesis",
+    "Gauntlets of Night": "Gauntlets of Night",
+    "Gauntlets of Voyager": "Gauntlets of Voyager",
+    "Gauntlets#21D": "Gauntlets#21D",
+    "Guardian Broadblade": "Guardian Broadblade",
+    "Guardian Gauntlets": "Guardian Gauntlets",
+    "Guardian Pistols": "Guardian Pistols",
+    "Guardian Rectifier": "Guardian Rectifier",
+    "Guardian Sword": "Guardian Sword",
+    "Helios Cleaver": "Helios Cleaver",
+    "Hollow Mirage": "Hollow Mirage",
+    "Jinzhou Keeper": "Jinzhou Keeper",
+    "Lumar Cutter": "Lunar Cutter",
+    "Lumingloss": "Lumingloss",
+    "Lustrous Razor": "Lustrous Razor",
+    "Marcato": "Marcato",
+    "Novaburst": "Novaburst",
+    "Originite: Type I": "Originite: Type I",
+    "Originite: Type II": "Originite: Type II",
+    "Originite: Type III": "Originite: Type III",
+    "Originite: Type IV": "Originite: Type IV",
+    "Originite: Type V": "Originite: Type V",
+    "Overture": "Overture",
+    "Pistols of Night": "Pistols of Night",
+    "Pistols of Voyager": "Pistols of Voyager",
+    "Pistols#26": "Pistols#26",
+    "Rectifier of Night": "Rectifier of Night",
+    "Rectifier of Voyager": "Rectifier of Voyager",
+    "Rectifier#25": "Rectifier#25",
+    "Scale: Slasher": "Scale: Slasher",
+    "Static Mist": "Static Mist",
+    "Stonard": "Stonard",
+    "Stringmaster": "Stringmaster",
+    "Sword of Night": "Sword of Night",
+    "Sword of Voyager": "Sword of Voyager",
+    "Sword#18": "Sword#18",
+    "Thunderbolt": "Thunderbolt",
+    "Undying Flame": "Undying Flame",
+    "Variation": "Variation",
+    "Verdant Summit": "Verdant Summit"
+  },
+  "CardPoolNames": {
+    "Featured Resonator": "Featured Resonator",
+    "Featured Weapon": "Featured Weapon",
+    "Permanent Resonator": "Permanent Resonator",
+    "Permanent Weapon": "Permanent Weapon",
+    "Beginner Convene": "Beginner Convene",
+    "Beginner's Choice": "Beginner's Choice",
+    "Selector Ticket": "Selector Ticket",
+    "Tidal Chorus": "Tidal Chorus",
+    "Winter Brume Banner": "Winter Brume Banner",
+    "Utterance of Marvels": "Utterance of Marvels",
+    "Beginner Selector": "Beginner's Choice Convene",
+    "Convene Giveback Event": "Absolute Pulsation",
+    "Absolute Pulsation": "Absolute Pulsation",
+    "Prevail the Lasting Night": "Prevail the Lasting Night",
+    "When Thunder Pours": "When Thunder Pours",
+    "Thawborn Renewal": "Thawborn Renewal"
+  },
+  "Metadata": {
+    "Generic": {
+      "title": "Wuwa Tracker",
+      "description": "Sebuah penghitung Pity untuk Wuthering Waves, menggunakan data terbaru dengan statistik global dan banyak lainya. Sinkronkan data Anda di semua perangkat dan bagikan hasil gacha Anda dengan teman serta lacak Pity akun Anda dengan mudah!"
+    },
+    "Achievements": {
+      "title": "Pencapaian - Wuwa Tracker",
+      "description": "Lacak pencapaian Wuthering Waves Anda hanya dengan impor & ekspor data Anda secara bebas di semua perangkat! Pelacak Wuwa - Wuwa Tracker adalah penghitung Pity untuk Wuthering Waves, menggunakan data terbaru dengan statistik global dan lebih masih banyak lagi. Bagikan hasil gacha Anda dengan teman dan lacak Pity akun Anda!"
+    },
+    "Convene": {
+      "Index": {
+        "title": "Convene Tracker - Wuwa Tracker",
+        "description": "Lihat statistik gacha Wuthering Waves kumpulan versi dan banner terbaru Anda. Gunakan dasbor yang handal dan cekatan untuk dibagikan kepada teman-teman! Wuwa Tracker adalah penghitung Pity untuk Wuthering Waves, menggunakan data terbaru dengan statistik global dan lebih masih banyak lagi. Bagikan hasil gacha Anda dengan teman dan lacak Pity akun Anda!"
+      },
+      "Global": {
+        "title": "Statistik Global - Wuwa Tracker",
+        "description": "Lihat statistik gacha global untuk banner {currentBanner}, menampilkan {currentFeaturedResonator}! Gunakan dasbor yang handal dan cekatan untuk dibagikan kepada teman-teman! Wuwa Tracker adalah penghitung Pity untuk Wuthering Waves, menggunakan data terbaru dengan statistik global dan lebih masih banyak lagi. Bagikan hasil gacha Anda dengan teman dan lacak Pity akun Anda!"
+      },
+      "Share": {
+        "title": "Bagikan Gacha History - Wuwa Tracker",
+        "description": "Buat kartu history Covene dengan riwayat gacha Anda untuk dibagikan dengan teman! Pelacak Wuwa - Wuwa Tracker adalah penghitung Pity untuk Wuthering Waves, menggunakan data terbaru dengan statistik global dan lebih masih banyak lagi. Bagikan hasil gacha Anda dengan teman dan lacak Pity akun Anda!"
+      }
+    },
+    "Error": {
+      "title": "Terjadi Kesalahan - Wuwa Tracker",
+      "description": "Terjadi kesalahan saat menggunakan Wuwa Tracker. Harap kirim laporan ke server Discord kami agar kami dapat menanganinya segera."
+    },
+    "Import": {
+      "title": "Impor Gacha History - Wuwa Tracker",
+      "description": "Ikuti tutorial interaktif kami untuk menampilkan data Wuthering Waves dan lihat statistik Anda. Kami mendukung impor dari PC, perangkat Android, dan iOS dengan metode otomatis. Wuwa Tracker adalah penghitung Pity untuk Wuthering Waves, menggunakan data terbaru dengan statistik global dan lebih masih banyak lagi. Bagikan hasil gacha Anda dengan teman dan lacak Pity akun Anda!"
+    },
+    "Not Found": {
+      "title": "Halaman Tidak Ditemukan - Wuwa Tracker",
+      "description": "Halaman ini tidak ditemukan di Wuwa Tracker. Silakan kembali ke halaman utama untuk mulai melacak data Sejarah Kumpul Gelombang Wuthering Anda."
+    },
+    "Privacy Policy": {
+      "title": "Kebijakan Privasi - Wuwa Tracker",
+      "description": "Dokumen kebijakan privasi ini menjelaskan jenis informasi pribadi yang diterima dan dikumpulkan oleh Wuwa Tracker serta bagaimana penggunaannya. Wuwa Tracker adalah hitung mundur kesedihan untuk Gelombang Wuthering, menggunakan data terbaru dengan statistik global dan lebih banyak lagi."
+    },
+    "Sequences": {
+      "title": "Urutan - Wuwa Tracker",
+      "description": "Hitung dan tampilkan duplikat Resonator dan Senjata Anda serta lihat informasi terkait. Anda bisa memamerkannya kepada teman-teman!"
+    },
+    "Settings": {
+      "title": "Pengaturan - Wuwa Tracker",
+      "description": "Sinkronkan data Anda melalui Google dengan masuk. Kelola data tarikan Wuthering Waves Anda di satu tempat. Wuwa Tracker adalah hitung mundur kesedihan untuk Gelombang Wuthering, menggunakan data terbaru dengan statistik global dan lebih banyak lagi. Bagikan hasil tarikan Anda dengan teman dan lacak akun Anda!"
+    },
+    "Terms & Conditions": {
+      "title": "Syarat & Ketentuan - Wuwa Tracker",
+      "description": "Syarat dan ketentuan ini menguraikan aturan dan regulasi untuk penggunaan situs web dan layanan Wuwa Tracker."
+    },
+    "Timeline": {
+      "title": "Garis Waktu Acara - Wuwa Tracker",
+      "description": "Dengan zona waktu lokal atau zona waktu server Gelombang Wuthering mana pun, Anda dapat melihat jadwal setiap spanduk, acara dalam permainan, periode Menara Adversitas dan Kedalaman Dunia Ilusi - semua dalam satu tempat. Wuwa Tracker adalah hitung mundur kesedihan untuk Gelombang Wuthering, menggunakan data terbaru dengan statistik global dan lebih banyak lagi. Bagikan hasil tarikan Anda dengan teman dan lacak akun Anda!"
+    }
+  },
+  "Layout": {
+    "LocaleSwitcher": {
+      "label": "Bantu Terjemahkan"
+    }
+  },
+  "Dashboard": {
+    "title": "Dashboard",
+    "Greeting": {
+      "AnimatedWords": {
+        "pulls": "pulls",
+        "pity": "pity",
+        "events": "events",
+        "statistics": "statistics",
+        "data": "data",
+        "updates": "updates"
+      },
+      "title": "Wuwa Tracker membantu Anda melacak Pity. Penghitungan Pity untuk Wuthering Waves, menggunakan data terkini yang global dan masih banyak lainnya. Kami mempunyai visi untuk menyediakan alat terbaik untuk menampilkan jejak kemajuan Wuthering Waves kalian kepada teman-teman Anda.",
+      "description": "Sebuah penghitung Pity untuk Wuthering Waves, menggunakan data terbaru dengan statistik global dan banyak lainya. Sinkronkan data Anda di semua perangkat dan bagikan hasil gacha Anda dengan teman serta lacak Pity akun Anda dengan mudah!"
+    },
+    "Tutorial": {
+      "title": "Ayo Mulai!",
+      "description": "Welcome, Rover. Let's get you started, shall we?\nSelamat Datang, Rover. Aku bantu kamu mulai, siap?",
+      "Import History": "Import History",
+      "View Pull History": "Lihat Gacha History",
+      "Sync Your Data": "Sinkronisasikan Data Anda",
+      "Your data will now sync automatically!": "Data Anda mulai sekarang akan tersinkronisasi secara otomatis"
+    },
+    "Changelogs": {
+      "title": "Daftar Perubahan",
+      "description": "Lihat pemberitahuan website disini."
+    },
+    "Community": {
+      "title": "Community"
+    }
+  },
+  "Achievements": {
+    "title": "Achievements",
+    "description": "Credits to <link>StarDB's WuWa Achievements V1.1 spreadsheet</link> for the initial data.",
+    "AchievementsPageContent": {
+      "toast": {
+        "import-success": "Import data sukses. ",
+        "import-invalid": "Tolong masukan data yang benar.",
+        "parse-fail": "Gagal memuat JSON file.",
+        "download-fail": "Gagal mengunduh.",
+        "download-start": "Unduhan Anda akan mulai dengan sekejap."
+      },
+      "description": "Gunakan filter untuk membantumu mencari pencapaian apa yang kamu belum dapatkan.",
+      "Completed": "Sukses",
+      "ImportDialog": {
+        "title": "Import Data",
+        "description": "Use your previously exported data and sync it with your browser."
+      },
+      "Hidden": "Sembunyikan",
+      "Click to upload": "Klik untuk upload",
+      "or drag and drop": "atau tarik dan jatuhkan",
+      "Import": "Import",
+      "Export as JSON": "Export sebagai JSON",
+      "Need Tips?": "Butuh saran?"
+    }
+  },
+  "Convene": {
+    "title": "Convene Tracker",
+    "ConveneCategoryGlobal": {
+      "Global Statistics": "Statistik Global"
+    },
+    "ConveneCategoryNav": {
+      "Convene Categories": "Convene Kategori"
+    },
+    "UserRecentConvenes": {
+      "Recent": "Terbaru",
+      "and": "dan",
+      "Convenes": "Convenes",
+      "no-filters": "Tidak ada filter yang dipilih.",
+      "no-records": "Tidak ada jejak yang ditemukan."
+    },
+    "UserPullHistoryTable": {
+      "Pull History": "Pull History",
+      "Pull Num": "Pull No.",
+      "Item": "Item",
+      "Pity": "Pity",
+      "Date Received": "Waktu Terima.",
+      "no-records": "Tidak ada jejak yang ditemukan."
+    },
+    "UserBannerStats": {
+      "Total": "Total",
+      "Astrites": "Astrites",
+      "Pulls": "Pulls"
+    },
+    "UserBannerStatsLuckCards": {
+      "Luck": "Beruntung ",
+      "no-luck": "Banner ini tidak ada statistik keberuntungan.",
+      "no-records": "Tidak ada jejak yang ditemukan.",
+      "calibrating": "Kaliberasi...",
+      "Percentiles": {
+        "AvgPity": {
+          "title": "Pity Rata-Rata",
+          "formula": "Berapa Pity rata-rata Anda {qualityLevel}-star pity?"
+        },
+        "PullRatio": {
+          "title": "Pull Rasio",
+          "formula": "Berapa persen total keseluruhan Gacha {qualityLevel}-stars?"
+        },
+        "RateUpWins": {
+          "title": "50/50 Menang",
+          "formula": "Berapa persen dari 50/50 gacha yang Anda menangkan?"
+        },
+        "RateUpWins4": {
+          "title": "Rate-up Menang",
+          "formula": "Seberapa sering 4-star gacha rate anda?"
+        }
+      }
+    },
+    "GlobalStatsPageContent": {
+      "title": "Statistik Global",
+      "Switch Banner": "Ganti Banner",
+      "Banner List": "Katalog Banner",
+      "Pulls Per Day": "Gacha Per Hari",
+      "Pulls By Pity": "Gacha dengan Pity",
+      "Pulls By Name": "Gacha dengan Nama",
+      "Pulls": "Gacha"
+    },
+    "SharePageContent": {
+      "title": "Berbagi Kartu",
+      "description": "Kostumisasi dan donwload Convene History Wuthering Waves Anda dan berbagi kepada orang lain!",
+      "Customize": "Kostumisasi",
+      "Edit Share Card": "Edit Kartu Berbagi",
+      "edit-description": "Kartu anda diperbarui secara tepat waktu seiring perubahan yang Anda buat.",
+      "Select Banner": "Pilih Banner",
+      "Background": "Latar Belakang",
+      "Foreground": "Latar Depan",
+      "recommendation": "Kami merekomendasikan 1:1 aspek rasio untuk gambar beresolusi 2048x2048",
+      "Download": "Unduh"
+    }
+  },
+  "Import": {
+    "Import Tutorial": "Panduan Import",
+    "PC": {
+      "title": "PC",
+      "Automatic": "Otomatis",
+      "Manual": "Manual"
+    },
+    "Android": {
+      "title": "Android",
+      "Airplane": "Mode Pesawat"
+    },
+    "iOS": "iOS",
+    "Heading": {
+      "title": "Pilih Caranya ",
+      "description": "Jika cara otommatis tidak berkerja untuk Anda, coba lakukan dengan manual dengan menggunakan cara lain di panduan. Jika Anda masih membutuhkan bantuan, tolong kunjungi kami <link>Discord Server</link>.",
+      "description-android": "Jika cara utama masih tidak berkerja untuk Anda gunakan cara lainya. Jika Anda masih membutuhkan bantuan, tolong kunjungi kami <link>Discord Server</link>."
+    },
+    "PC1Tutorial": {
+      "invalid-url": "Alamat Convene History tidak valid.",
+      "import-success": "Sukses mengimport  Alamat Convene History!",
+      "1": {
+        "title": "Pertama, jalankan Wuthering Waves dan buka History Convene di dalam game",
+        "description": "Setelahnya, buka Windows PowerShell dan copy paste script berikut.",
+        "History URL Script": "Script Alamat History",
+        "Click the copy button on the right": "Klik tombol copy di samping kanan",
+        "note": "Note: Script tidak mengedit file Anda, ia hanya mengambil Alamat dari logs Anda. Anda dapat <link>melihat script disini</link>."
+      },
+      "2": {
+        "title": "Paste alamat disini",
+        "Your Convene History URL": "Alamat Convene History Anda"
+      },
+      "3": {
+        "title": "Tekan tombol \"Import History\" pada website ini."
+      },
+      "Import History": "Import History"
+    },
+    "PC2Tutorial": {
+      "invalid-url": "Alamat Convene History tidak valid.",
+      "import-success": "Sukses mengimport  Alamat Convene History!",
+      "found-url": "Kami menemukan Alamat Anda! Klik Tombol Import History untuk melanjutkan.",
+      "not-found-url": "Tidak menemukan Alamat yang valid di file log.",
+      "Click to upload": "Klik untuk upload",
+      "or drag and drop": "atau tarik dan jatuhkan",
+      "1": {
+        "title": "Pertama, buka Wuthering Waves dan Buka Convene History di dalam game Anda"
+      },
+      "2": {
+        "title": "Pergi ke tempat game Anda di instal",
+        "description": "Klik kanan Wuthering Waves game launcher Anda dan Pilih <code>Open file location</code>. Anda harusnya melihat <code>launcher.exe</code> dan banya file  <code>.dll</code>."
+      },
+      "3": {
+        "title": "Cari file <code>debug.log</code> di File Explorer and Upload  Itu Disini."
+      },
+      "4": {
+        "title": "Tekan Tombol \"Import History\" pada Website ini"
+      },
+      "Video Tutorial": "Video Tutorial",
+      "PC Import Tutorial Video": "PC Import Tutorial Video",
+      "video-tutorial-desc": "Ikuti petunjuk ini langkah demi langkah<highlight>cacaowithwater</highlight> dari Server <link>Discord Kami</link> untuk mengimpor data pada PC Anda",
+      "Import History": "Import History"
+    },
+    "PC3Tutorial": {
+      "invalid-path": "Tempat Penyimpanan Game Tidak Valid",
+      "invalid-url": "Alamat Convene History Tidak Valid",
+      "import-success": "Mengimport Alamat Convene History Sukses!",
+      "1": {
+        "title": "Copy Alamat Tempat Game Anda di Instal",
+        "description": "Cari folder yang ada file <code>Wuthering Waves.exe</code> dan <code>Client Game</code> folder.",
+        "Your installation directory": "Tempat Game Anda di Instal",
+        "warning": "Perhatian: Jika Anda mengedit file <code>Engine.ini</code> sebuah file untuk menghetikan log, Anda harus melanjutkannya kembali sebelum membuka convene history, jika tidak script tidak akan berfungsi."
+      },
+      "2": {
+        "title": "Pertama, buka Wuthering Waves dan Buka Convene History di dalam game Anda",
+        "description": "Setelahnya, buka Windows PowerShell dan copy paste script berikut.",
+        "invalid-directory": "Masukan alamat tempat game Anda di instal!",
+        "Stuck? Click the “Need Help?” button": "Bingung? Klik tombol \"Butuh Bantuan?\"",
+        "note": "Note: Script tidak mengedit file Anda, ia hanya mengambil Alamat dari logs Anda. Anda dapat <link>melihat script disini</link>."
+      },
+      "3": {
+        "title": "Paste alamat disini",
+        "Your Convene History URL": "Alamat Convene History Anda"
+      },
+      "4": {
+        "title": "Tekan Tombol \"Import History\" pada Website ini"
+      },
+      "Video Tutorial": "Video Tutorial",
+      "PC Import Tutorial Video": "PC Import Tutorial Video",
+      "video-tutorial-desc": "Ikuti petunjuk ini langkah demi langkah<highlight>cacaowithwater</highlight> dari Server <link>Discord Kami</link> untuk mengimpor data pada PC Anda",
+      "Import History": "Import History"
+    },
+    "IOSTutorial": {
+      "invalid-json": "Data JSON tidak valid - pastikan untuk menyalin titik koma",
+      "invalid-url": "Alamat Convene History tidak valid.",
+      "import-success": "Sukses mengimport Alamat Convene History!",
+      "1": {
+        "title": "Ikuti Video Tutorial Kami",
+        "description": "Mirip dengan mendapatkan history Anda di Genshin Impact atau Honkai Star Rail, ikuti <video>tutorial video dari Chario</video> ini untuk mengunduh dan menggunakan <app>Stream - Network Debug Tool</app>.",
+        "Video Tutorial": "Video Tutorial",
+        "iOS Import Tutorial Video": "iOS Import Tutorial Video",
+        "video-tutorial-desc": "Ikuti petunjuk ini langkah demi langkah<highlight>Chario</highlight> dari Server <link>Discord Kami</link> untuk mengimpor data pada PC Anda"
+      },
+      "2": {
+        "title": "Paste JSON di Sini"
+      },
+      "3": {
+        "title": "Tekan Tombol \"Import History\" pada Website ini"
+      },
+      "Import History": "Import History"
+    },
+    "Android1Tutorial": {
+      "invalid-url": "Alamat Convene History tidak valid.",
+      "import-success": "Sukses mengimport Alamat Convene History!",
+      "1": {
+        "title": "Gunakan Ascent Untuk Mengambil Alamat Convene History",
+        "description": "Mirip dengan mendapatkan history Anda di Genshin Impact atau Honkai Star Rail, ikuti <video>tutorial video dari Mirai0009</video> ini untuk mengunduh dan menggunakan <app>Ascent v2.1.6</app> untuk mengambil Alamat Anda.",
+        "note": "Metode ini hanya support untuk Android versi 11 ke atas.",
+        "troubleshooting": "Jika tidak berkerja dengan benar, cek <link>bagian pemecah masalah</link>."
+      },
+      "2": {
+        "title": "Paste alamat disini",
+        "Your Convene History URL": "Alamat Convene History Anda"
+      },
+      "3": {
+        "title": "Tekan Tombol \"Import History\" pada Website ini"
+      },
+      "Video Tutorial": "Video Tutorial",
+      "Android Ascent Import Tutorial Video": "Android Ascent Import Tutorial Video",
+      "video-tutorial-desc": "Pertama, tolong baca ini dengan teliti <guide>teks panduan</guide> lalu ikuti video ini <video>YouTube video</video> untuk mengambil data Anda di Android. Semua jasa diberikan untuk Mirai0009.",
+      "Import History": "Import History"
+    },
+    "Android2Tutorial": {
+      "invalid-url": "Alamat Convene History tidak valid.",
+      "import-success": "Sukses mengimport Alamat Convene History!",
+      "1": {
+        "title": "Gunakan Termux Untuk Mengambil Alamat Convene History",
+        "description": "Mirip dengan mendapatkan history Anda di Genshin Impact atau Honkai Star Rail, ikuti <guide>tutorial dari eqdamini</guide> untuk mendownlaod dan menggunakan <app>Termux</app> untuk mengambil Alamat Anda."
+      },
+      "2": {
+        "title": "Paste alamat disini",
+        "Your Convene History URL": "Alamat Convene History Anda"
+      },
+      "3": {
+        "title": "Tekan Tombol \"Import History\" pada Website ini"
+      },
+      "Import History": "Import History"
+    },
+    "Android3Tutorial": {
+      "invalid-url": "Alamat Convene History tidak valid.",
+      "import-success": "Sukses mengimport Alamat Convene History!",
+      "1": {
+        "title": "Ikuti Video Tutorial Kami",
+        "description": "Ikuti <link>video tutorial dari yukio36</link> setelah membuka aplikasi Wuthering Waves.",
+        "Video Tutorial": "Video Tutorial",
+        "Android Airplane Mode Import Tutorial Video": "Android Mode Pesawat Import Tutorial Video",
+        "video-tutorial-desc": "Ikuti video tutorial YouTube ini langkah demi langkah dari <highlight>yukio36</highlight> dari <link>Discord Server Kami</link> untuk mengimpor data pada Android tanpa mendownload apa-apa.",
+        "note": "Catatan: Ini mungkin tidak berkerja untuk semua perangkat, jadi gunakan cara lain jika cara ini gagal."
+      },
+      "2": {
+        "title": "Paste alamat disini",
+        "Your Convene History URL": "Alamat Convene History Anda"
+      },
+      "3": {
+        "title": "Tekan Tombol \"Import History\" pada Website ini"
+      },
+      "Import History": "Import History"
+    }
+  },
+  "Settings": {
+    "title": "Setting",
+    "Google Account": "Akun Google",
+    "Browser Data": "Data Browser",
+    "Report an Issue": "Laporkan Masalah",
+    "SettingCloudSync": {
+      "sign-out-success": "Berhasil keluar.",
+      "login-to-sync": "Anda harus login sebelum dapat melakukan sinkronisasi.",
+      "import-to-sync": "Impor data Anda terlebih dahulu untuk mulai menyinkronkan!",
+      "data-is-in-sync": "Data disinkronkan dengan Akun Google Anda.",
+      "is-synced": "Data disinkronkan",
+      "is-not-synced": "Data TIDAK disinkronkan",
+      "Cloud Backup": "Cadangan Cloud",
+      "description": "Simpan data Anda menggunakan Akun Google Anda dan akses data Anda di perangkat apa pun. Setelah masuk, cukup klik tombol \"Sinkronkan Data\" untuk mengunggah atau mengunduh data Anda ke perangkat Anda.",
+      "Guest": "Tamu",
+      "Sign In to Google": "Masuk ke Google",
+      "Log Out": "Keluar",
+      "Sync Data": "Sinkronkan Data",
+      "Google Data": "Data Google",
+      "Browser Data": "Data Browser",
+      "browser-data-different": "Data browser lokal Anda berbeda dengan data Akun Google Anda.",
+      "browser-data-different-confirmation": "Data lokal Anda dengan ID pemain ({localId}) bertentangan dengan ID pemain Akun Google Anda (${googleId}). Apakah Anda ingin menyimpan data lokal browser Anda atau ingin menggunakan data Akun Google Anda?"
+    },
+    "SignInButton": {
+      "sign-out-success": "Berhasil keluar.",
+      "Sign out": "Keluar",
+      "Sign In to Google": "Masuk ke Google"
+    },
+    "SettingConveneHistoryUrl": {
+      "require-url-before-downloading": "Anda memerlukan Alamat Convene History yang valid sebelum mengunduh.",
+      "download-failed": "Gagal memulai pengunduhan.",
+      "download-starting": "Pengunduhan Anda akan segera dimulai.",
+      "invalid-url": "Silakan masukkan Alamat History Convene yang valid.",
+      "import-success": "Berhasil mengimpor Alamat History Convene secara lokal!",
+      "delete-local-success": "Data history lokal dihapus.",
+      "Convene History Data": "Data History Convene",
+      "Import Tutorial": "Import Tutorial",
+      "Go to Import Tutorial": "Pergi ke Import Tutorial",
+      "description": "Ekspor atau ubah Alamat History Convene Anda disini.",
+      "Your Convene History URL": "Alamat History Convene Anda",
+      "Download Your History": "Unduh History Anda",
+      "Delete Browser Saved Data": "Hapus Data Browser yang Tersimpan",
+      "Delete your local data": "Hapus data lokal Anda",
+      "Save": "Menyimpan"
+    },
+    "SettingGlobalStats": {
+      "title": "Privasi",
+      "description": "Kelola izin Wuwa Tracker saat menangani data Anda."
+    },
+    "GlobalStatsCheckbox": {
+      "Submit pull data for global statistics": "Kirimkan data gacha untuk statistik global"
+    }
+  },
+  "Timeline": {
+    "title": "Linimasa",
+    "heading": "Garis Waktu Event",
+    "description": "Lihat event Wuthering Waves di zona waktu lokal Anda atau di <link>Waktu Server</link> lainnya.",
+    "github-update-message": "Diperbarui pada {time} oleh {author}.",
+    "Edit this page on GitHub": "Edit halaman ini di GitHub",
+    "ResetTimers": {
+      "title": "Timer Reset Harian Server",
+      "description": "Bandingkan waktu setempat Anda dengan server game Wuthering Waves untuk merencanakan petualangan Anda berikutnya."
+    }
+  }
+}
